@@ -1,2 +1,2 @@
-# bank
+# Bank Details API
  
